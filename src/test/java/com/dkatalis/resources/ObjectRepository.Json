@@ -1,0 +1,57 @@
+{
+	"BuyNow":{
+		"XPATH":"//a[text()='BUY NOW']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"Title":{
+		"XPATH":"//a[text()='Coco']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"CheckOut":{
+		"XPATH":"//div[text()='CHECKOUT']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"Continue":{
+		"XPATH":"//a[@class='button-main-content']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"CreditCard":{
+		"XPATH":"//a[@class='list with-promo']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"CardNumber":{
+		"XPATH":"//input[@name='cardnumber']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"ExpiryDate":{
+		"XPATH":"//input[@placeholder='MM / YY']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"Cvv":{
+		"XPATH":"//input[@style='font-family: cvvpass;']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"PayNow":{
+		"XPATH":"//a[@class='button-main-content']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"Password":{
+		"XPATH":"//input[@type='password']",
+		"ID":"",
+		"CLASSNAME":""
+	},
+	"OkButton":{
+		"XPATH":"//button[text()='OK']",
+		"ID":"",
+		"CLASSNAME":""
+	}
+}
